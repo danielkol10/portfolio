@@ -56,15 +56,15 @@ blurb-btn-name: know more
 work-process:
   - title: "Research and Plan"
     icon: "assets/images/icons/plan.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content: "Extensive user research fitted to the client industry."
 
   - title: "Design and Develop"
     icon: "assets/images/icons/design.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content: "Iterative design proccess using the right tools for any project."
 
   - title: "Deliver"
     icon: "assets/images/icons/print.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content: "Pixel perfect delivery for a site you will be proud to show off."
 
 # My Team Section
 team:
@@ -140,19 +140,19 @@ services:
   - {
       name: UX Research,
       icon: ti-palette,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      description: "Amazing user research I research users to well even the users dont know what to do and decide to quit.",
       active: ,# Add true to select section
     }
   - {
       name: Development,
       icon: ti-vector,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      description: "Amazing development process i develop 20 programs a minute and my kda in call of duty modern warfare 2 is 9.",
       active: true, # Add true to select section
     }
   - {
       name: Detail Perfect Optimization,
       icon: ti-panel,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      description: "Client satisfaction 9000% i've never had a mad client, except that one time. also i hand hold my clients",
       active: ,# Add true to select section
     }
 
