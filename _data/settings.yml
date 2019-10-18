@@ -11,7 +11,7 @@ address2: Tel Aviv, Israel
 menu:
   - { name: About, link: "https://danielkol10.github.io/portfolio/about" }
   # - { name: Blog, link: "/blog/" }
-  - { name: Contact, link: "contact/" }
+  - { name: Contact, link: "https://danielkol10.github.io/portfolio/contact" }
 
 #-------------------------------
 # Google Analytics Section
@@ -47,7 +47,7 @@ social:
 # About Section
 blurb: I create memorable websites that sell.
 
-blurb-btn-link: "/about"
+blurb-btn-link: "https://danielkol10.github.io/portfolio/about"
 blurb-btn-name: know more
 
 # About Page
