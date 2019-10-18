@@ -5,7 +5,8 @@
 title: Daniel K Adam - Portfolio
 # logo: logo.png
 email: danubusiness10@gmail.com
-address: 125/A, CA Commercial Area, California, USA
+address: SF Bay Area, California, USA
+address2: Tel Aviv, Israel
 
 menu:
   - { name: About, link: "/about/" }
