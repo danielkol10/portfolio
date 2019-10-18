@@ -17,7 +17,7 @@
     height: 800px;
     bottom: 0;
     left: 50%;
-    background-color: rgba(255, 255, 255, .4);
+    background-color: rgba(255, 255, 255, 0.4);
     border-radius: 45%;
     transform: translateX(-50%) rotate(0);
     animation: rotate 6s linear infinite;
@@ -26,7 +26,7 @@
 
   &::after {
     border-radius: 47%;
-    background-color: rgba(255, 255, 255, .9);
+    background-color: rgba(255, 255, 255, 0.9);
     transform: translateX(-50%) rotate(0);
     animation: rotate 10s linear -5s infinite;
     z-index: 20;
@@ -45,6 +45,14 @@
 
 /* /skills */
 
+// experence
+
+.col-lg-3 h6 {
+  font-size: 18px;
+}
+
+// experience
+
 /* education */
 .edu-bg-image {
   position: absolute;
@@ -57,7 +65,7 @@
 
 /* service */
 .hover-bg-primary {
-  transition: .3s ease;
+  transition: 0.3s ease;
 
   &:hover {
     background: $primary-color;
@@ -69,7 +77,7 @@
 }
 
 .active-bg-primary {
-  transition: .3s ease;
+  transition: 0.3s ease;
   background: $primary-color;
 
   * {
@@ -77,13 +85,15 @@
   }
 }
 
-.hover-shadow{
-  transition: .2s ease;
-  &:hover{
+.hover-shadow {
+  transition: 0.2s ease;
+  &:hover {
     box-shadow: 0px 18px 40px 8px rgba(224, 241, 255, 0.54) !important;
   }
 }
-
+.card-body p {
+  font-size: 18px;
+}
 
 /* /service */
 
@@ -92,7 +102,7 @@
   overflow: hidden;
 
   img {
-    transition: .3s ease;
+    transition: 0.3s ease;
     transform: scale(1.1);
   }
 
@@ -115,10 +125,10 @@
   border-radius: inherit;
   top: 0;
   left: 0;
-  background: rgba($color: $black, $alpha: .3);
+  background: rgba($color: $black, $alpha: 0.3);
   opacity: 0;
   visibility: hidden;
-  transition: .3s ease;
+  transition: 0.3s ease;
 }
 
 .hover-content {
@@ -182,6 +192,10 @@
     right: 200px;
     bottom: -50px;
   }
+}
+
+.testimonial-content p {
+  font-size: 19px;
 }
 
 /* /testimonial */
