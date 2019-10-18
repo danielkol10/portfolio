@@ -70,15 +70,15 @@ work-process:
 team:
   - title: "Asi"
     image: "assets/images/team/member-1.png"
-    designation: "Project Manager"
+    designation: "Designer"
 
-  - title: "Roy"
+  - title: "Ruben"
     image: "assets/images/team/member-2.png"
     designation: "Web Developer"
 
   - title: "Mike"
     image: "assets/images/team/member-3.png"
-    designation: "Designer"
+    designation: "Project Manager"
 
 #-------------------------------
 # Skills Section
@@ -122,7 +122,7 @@ education:
   - {
       name: Full Stack Web Development,
       date: "2018",
-      organization: "Le Wagon, World's 1st ranked coding bootcamp",
+      organization: "Le Wagon, world's 1st ranked coding bootcamp",
     }
   - {
       name: Web Development Certification,
@@ -237,7 +237,7 @@ portfolio-home-items:
 
 testimonial-items:
   - name: "Roy Hinkis"
-    image: "assets/images/testimonial/client-1.png"
+    image: "assets/images/testimonial/benml.jpg"
     designation: "Head of SEO, Similarweb"
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 
