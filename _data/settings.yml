@@ -9,7 +9,7 @@ address: 125/A, CA Commercial Area, California, USA
 
 menu:
   - { name: About, link: "/about/" }
-  - { name: Blog, link: "/blog/" }
+  # - { name: Blog, link: "/blog/" }
   - { name: Contact, link: "/contact/" }
 
 #-------------------------------
@@ -67,15 +67,15 @@ work-process:
 
 # My Team Section
 team:
-  - title: "Jack Schenziwe"
+  - title: "Asi"
     image: "assets/images/team/member-1.png"
     designation: "Project Manager"
 
-  - title: "Julias Carlie"
+  - title: "Roy"
     image: "assets/images/team/member-2.png"
     designation: "Web Developer"
 
-  - title: "John Doe"
+  - title: "Mike"
     image: "assets/images/team/member-3.png"
     designation: "Designer"
 
@@ -119,25 +119,17 @@ experience:
 education-title: Education
 education:
   - {
-      name: Marters in UX Design,
-      date: "2006",
-      organization: "Masassusets Institute of Technology",
+      name: Full Stack Web Development,
+      date: "2018",
+      organization: "Le Wagon, World's 1st ranked coding bootcamp",
     }
   - {
-      name: Honours in Fine Arts,
-      date: "2004",
-      organization: "Harvard University",
+      name: Web Development Certification,
+      date: "2017",
+      organization: "FreeCodeCamp",
     }
-  - {
-      name: Higher Secondary Certificat,
-      date: "2000",
-      organization: "Cardiff School",
-    }
-  - {
-      name: Secondary School Certificate,
-      date: "1998",
-      organization: "Cardiff School",
-    }
+  - { name: Advanced Google Analytics, date: "2016", organization: "Google" }
+  - { name: Psychology, date: "2015", organization: "Tel Aviv University" }
 
 #-------------------------------
 # Services Section
