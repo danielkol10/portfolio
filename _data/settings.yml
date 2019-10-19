@@ -9,7 +9,7 @@ address: SF Bay Area, California, USA
 address2: Tel Aviv, Israel
 
 menu:
-  - { name: About, link: "https://danielkol10.github.io/portfolio/about" }
+  - { name: About, link: "https://danielkol10.github.io/portfolio/test" }
   # - { name: Blog, link: "/blog/" }
   - { name: Contact, link: "https://danielkol10.github.io/portfolio/contact" }
 
