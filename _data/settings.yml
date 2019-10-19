@@ -2,16 +2,16 @@
 #-------------------------------
 # General Site Settings
 
-title: Daniel K Adam - Portfolio
-# logo: logo.png
+title: Daniel K Adam
+logo: logo/logo.png
 email: danubusiness10@gmail.com
 address: SF Bay Area, California, USA
 address2: Tel Aviv, Israel
 
 menu:
-  - { name: About, link: "https://danielkol10.github.io/portfolio/about" }
+  - { name: About, link: "http://localhost:4000/portfolio/about" }
   # - { name: Blog, link: "/blog/" }
-  - { name: Contact, link: "https://danielkol10.github.io/portfolio/contact" }
+  - { name: Contact, link: "http://localhost:4000/portfolio/contact" }
 
 #-------------------------------
 # Google Analytics Section
@@ -32,7 +32,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! <br> I’m Daniel, <br> Web Developer
+  hero-title: Hi! <br> I’m Daniel, <br> Full Stack Developer
 
 social:
   - {
@@ -45,7 +45,7 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: I create memorable websites that sell.
+blurb: I'm a Full Stack developer with industry experience building websites and web applications. <br> I specialize in Ruby on Rails but have professional experience working with anything from Javascript frameworks like NodeJS and React to Wordpress.
 
 blurb-btn-link: "https://danielkol10.github.io/portfolio/about"
 blurb-btn-name: know more
@@ -68,27 +68,27 @@ work-process:
 
 # My Team Section
 team:
-  - title: "Asi"
-    image: "assets/images/team/member-1.png"
+  - title: "Mike"
+    image: "assets/images/team/mike.jpeg"
     designation: "Designer"
 
-  - title: "Ruben"
-    image: "assets/images/team/member-2.png"
-    designation: "Web Developer"
-
-  - title: "Mike"
-    image: "assets/images/team/member-3.png"
+  - title: "Asi"
+    image: "assets/images/team/asi.jpeg"
     designation: "Project Manager"
+
+  - title: "Ruben"
+    image: "assets/images/team/ruben.jpeg"
+    designation: "Developer"
 
 #-------------------------------
 # Skills Section
 
-skills-title: Skills
-skills:
-  - { name: UX Research, color: "#fdb157", value: "80%" }
-  - { name: Web Design, color: "#9473e6", value: "60%" }
-  - { name: Front End, color: "#bdecf6", value: "90%" }
-  - { name: Back End, color: "#B33147", value: "80%" }
+# skills-title: Skills
+# skills:
+#   - { name: UX Research, color: "#fdb157", value: "80%" }
+#   - { name: Web Design, color: "#9473e6", value: "60%" }
+#   - { name: Front End, color: "#bdecf6", value: "90%" }
+#   - { name: Back End, color: "#B33147", value: "80%" }
 
 #-------------------------------
 # Exprerience Section
@@ -140,19 +140,19 @@ services:
   - {
       name: UX Research,
       icon: ti-palette,
-      description: "Amazing user research I research users to well even the users dont know what to do and decide to quit.",
+      description: "Extensive UX research tailored to the target audience, every design choice is reflected in real results",
       active: ,# Add true to select section
     }
   - {
       name: Development,
       icon: ti-vector,
-      description: "Amazing development process i develop 20 programs a minute and my kda in call of duty modern warfare 2 is 9.",
+      description: "Client focused development process with close support each step of the way",
       active: true, # Add true to select section
     }
   - {
       name: Detail Perfect Optimization,
       icon: ti-panel,
-      description: "Client satisfaction 9000% i've never had a mad client, except that one time. also i hand hold my clients",
+      description: "Every detail re-iterated and design aspect optimized to perfection, even after deployment",
       active: ,# Add true to select section
     }
 
@@ -235,21 +235,21 @@ portfolio-home-items:
 #-------------------------------
 # Testimonials Section
 
-testimonial-items:
-  - name: "Roy Hinkis"
-    image: "assets/images/testimonial/benml.jpg"
-    designation: "Head of SEO, Similarweb"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisiciqua. Ut enim ad minim veniam, <strong>quis nostrud exebequat.</strong> Duis aute irure olore eu fugiat nulla pariatur."
+# testimonial-items:
+#   - name: "Roy Hinkis"
+#     image: "assets/images/testimonial/benml.jpg"
+#     designation: "Head of SEO, Similarweb"
+#     content: "Lorem ipsum dolor sit amet, consectetur adipisiciqua. Ut enim ad minim veniam, <strong>quis nostrud exebequat.</strong> Duis aute irure olore eu fugiat nulla pariatur."
 
-  - name: "Brittany Horowitz"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "Product Manager, Jumpshot Inc"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisiciqua. Ut enim ad minim veniam, <strong>quis nostrud exebequat.</strong> Duis aute irure olore eu fugiat nulla pariatur."
+#   - name: "Brittany Horowitz"
+#     image: "assets/images/testimonial/client-1.png"
+#     designation: "Product Manager, Jumpshot Inc"
+#     content: "Lorem ipsum dolor sit amet, consectetur adipisiciqua. Ut enim ad minim veniam, <strong>quis nostrud exebequat.</strong> Duis aute irure olore eu fugiat nulla pariatur."
 
-  - name: "Ben Malol"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, MFM"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisiciqua. Ut enim ad minim veniam, <strong>quis nostrud exebequat.</strong> Duis aute irure olore eu fugiat nulla pariatur."
+#   - name: "Ben Malol"
+#     image: "assets/images/testimonial/client-1.png"
+#     designation: "CEO, MFM"
+#     content: "Lorem ipsum dolor sit amet, consectetur adipisiciqua. Ut enim ad minim veniam, <strong>quis nostrud exebequat.</strong> Duis aute irure olore eu fugiat nulla pariatur."
 
 #-------------------------------
 # Client Slider Section
