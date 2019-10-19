@@ -2,14 +2,13 @@
 #-------------------------------
 # General Site Settings
 
-title: Daniel K Adam - Portfolio
+title: Daniel K Adam
 # logo: logo.png
 email: danubusiness10@gmail.com
 address: SF Bay Area, California, USA
 address2: Tel Aviv, Israel
 
 menu:
-  - { name: Home, link: "https://danielkol10.github.io/portfolio/" }
   - { name: About, link: "https://danielkol10.github.io/portfolio/about" }
   # - { name: Blog, link: "/blog/" }
   - { name: Contact, link: "https://danielkol10.github.io/portfolio/contact" }
@@ -33,7 +32,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! <br> I’m Daniel, <br> Web Developer
+  hero-title: Hi! <br> I’m Daniel, <br> Full Stack Developer
 
 social:
   - {
