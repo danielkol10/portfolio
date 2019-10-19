@@ -32,7 +32,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! <br> I’m Daniel, <br> Full Stack Developer
+  hero-title: Hi! <br> I’m Daniel, <br> I build websites
 
 social:
   - {
@@ -45,7 +45,7 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: I'm a Full Stack developer with industry experience building websites and web applications. <br> I specialize in Ruby on Rails but have professional experience working with anything from Javascript frameworks like NodeJS and React to Wordpress.
+blurb: I'm a Full Stack developer based in California / Tel Aviv with leading industry experience building websites and web applications.
 
 blurb-btn-link: "https://danielkol10.github.io/portfolio/about"
 blurb-btn-name: know more
@@ -93,44 +93,44 @@ team:
 #-------------------------------
 # Exprerience Section
 
-experience-title: Experience
+experience-title: Belief
 experience:
   - {
-      name: UX Consultant,
+      name: Clean Design,
       icon: "icon-1.png",
-      date: "Jan 2016 - Feb 2017",
-      organization: "Unilever",
+      # date: "Jan 2016 - Feb 2017",
+      organization: "Clean straight to the point design lorem ipsum",
     }
   - {
-      name: Web Developer,
+      name: Client Experience,
       icon: "icon-2.png",
-      date: "Jan 2018 - Feb 2019",
-      organization: "Job Kitchen",
+      # date: "Jan 2018 - Feb 2019",
+      organization: "Rich and memoerable customer experience Lorem Ipsum",
     }
   - {
-      name: Web Developer,
+      name: Beautiful Code,
       icon: "icon-3.png",
-      date: "March 2019 - Present",
-      organization: "Jumpshot Inc",
+      # date: "March 2019 - Present",
+      organization: "performant and efficient code Lorem Ipsum",
     }
 
 #-------------------------------
 # Education Section
 
-education-title: Education
-education:
-  - {
-      name: Full Stack Web Development,
-      date: "2018",
-      organization: "Le Wagon, world's 1st ranked coding bootcamp",
-    }
-  - {
-      name: Web Development Certification,
-      date: "2017",
-      organization: "FreeCodeCamp",
-    }
-  - { name: Advanced Google Analytics, date: "2016", organization: "Google" }
-  - { name: Psychology, date: "2015", organization: "Tel Aviv University" }
+# education-title: Education
+# education:
+#   - {
+#       name: Full Stack Web Development,
+#       date: "2018",
+#       organization: "Le Wagon, world's 1st ranked coding bootcamp",
+#     }
+#   - {
+#       name: Web Development Certification,
+#       date: "2017",
+#       organization: "FreeCodeCamp",
+#     }
+#   - { name: Advanced Google Analytics, date: "2016", organization: "Google" }
+#   - { name: Psychology, date: "2015", organization: "Tel Aviv University" }
 
 #-------------------------------
 # Services Section
